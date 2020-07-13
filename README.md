@@ -1,16 +1,31 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**luanloose/luanloose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho na Genesis Tecnologia.
+- 🌱 Sempre estutando para aprimorar minhas habilidades técnicas:
+- 📫 Contato: https://www.linkedin.com/in/luanloose/
 
-Here are some ideas to get you started:
+➡ Back-End developer;
+➡ Scrum;
+➡ Boa relação interpessoal;
+➡ Autodidata;
+➡ Habilidades de auto gerenciamento;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades Técnicas:
+➡ PHP;
+➡ Lumen;
+➡ Laravel;
+➡ VueJS;
+➡ Git;
+
+Ferramentas:
+➡ Visual Studio Code;
+➡ Github;
+
+Características Pessoais:
+➡ Trilhas;
+➡ Rapel;
+➡ Caminhadas;
+➡ Colecionador de Jogos e Actions figures.
+
+Contatos:
+📥 luanloose@hotmail.com
