@@ -12,4 +12,6 @@ Ferramentas: Visual Studio Code, Github.
 
 Características Pessoais: Trilhas, Rapel, Caminhadas, Colecionador de Jogos e Actions figures.
 
+Portifólio: https://luanloose.github.io/
+
 Contatos: luanloose@hotmail.com
