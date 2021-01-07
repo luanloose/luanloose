@@ -38,7 +38,6 @@ Meu nome é Luan Andrade Loose, amo tecnologia e a área de desenvolvimento, sou
 ## 🤦🏻‍♂️ Não tenho talento com:
  - Marketing no geral (logo, identidade visual);
  - Prototipagem de interfaces com Figma, Adobe XD e similares.
- ##
  
  
  ## 😁 Onde me achar:
