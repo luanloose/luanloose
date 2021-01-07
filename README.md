@@ -33,15 +33,11 @@ Meu nome é Luan Andrade Loose, amo tecnologia e a área de desenvolvimento, sou
 <code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
 <code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/906/906324.svg" alt="VsCode"/></code>
 
-
-
 ## 🤦🏻‍♂️ Não tenho talento com:
  - Marketing no geral (logo, identidade visual);
  - Prototipagem de interfaces com Figma, Adobe XD e similares.
  
- 
- ## 😁 Onde me achar:
-
+## 😁 Onde me achar:
 
 <a href="https://www.linkedin.com/in/luanloose/">
   <code><img alt="My linkedin" width="30" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" /></code>
