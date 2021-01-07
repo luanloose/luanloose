@@ -47,5 +47,9 @@ Meu nome é Luan Andrade Loose, amo tecnologia e a área de desenvolvimento, sou
   <code><img alt="My e-mail" width="30" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" /></code>
 </a>
 
-
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/luanloose/luanloose" alt="Visitors badge" />
+   </a>
+</p>
 
