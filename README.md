@@ -5,20 +5,23 @@ Meu nome é Luan Andrade Loose, amo tecnologia e a área de desenvolvimento, sou
 
 ## 💻 Minhas stacks de desenvolvimento:
 
-<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/919/919830.svg" alt="Javascript"/></code>
+* Linguagens / Db / Env:
+
+   <code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/919/919830.svg" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="PostegreSQL"/></code>
+<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker"/></code>
+<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git"/></code>
 
 * Utilizo os frameworks:
 
    <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-3/256/laravel-512.png" alt="Lumen"/></code>
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/lumen-1.svg" alt="Lumen"/></code>
 <code><img height="32" src="https://vuejs.org/images/logo.png" alt="VueJs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 
 * Planos para aprender:
 
@@ -27,9 +30,9 @@ Meu nome é Luan Andrade Loose, amo tecnologia e a área de desenvolvimento, sou
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
 
-## 💡 Utilitários que uso:
+* Utilitários que uso:
 
-<code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
+   <code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
 <code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/906/906324.svg" alt="VsCode"/></code>
 
@@ -45,6 +48,18 @@ Meu nome é Luan Andrade Loose, amo tecnologia e a área de desenvolvimento, sou
 
 <a href="mailto:luanloose4.0@gmail.com">
   <code><img alt="My e-mail" width="30" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" /></code>
+</a>
+
+<a href="https://wa.me/5527998040466">
+  <code><img alt="Whatsapp" width="30" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384055.svg?token=exp=1611023287~hmac=82b30e79d51817b839fc525c8cc19503" /></code>
+</a>
+
+<a href="https://t.me/luanloose">
+  <code><img alt="Telegram" width="30" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111644.svg?token=exp=1611023559~hmac=a61249cf513b4c84bc86d879b46c3981" /></code>
+</a>
+
+<a href="https://www.instagram.com/luanloose/?hl=pt-br">
+  <code><img alt="Instagram" width="30" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1611023627~hmac=08608355dd60c17ea551d7c049696f83" /></code>
 </a>
 
 <p align="right">
