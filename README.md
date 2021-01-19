@@ -43,11 +43,11 @@ Meu nome é Luan Andrade Loose, amo tecnologia e a área de desenvolvimento, sou
 ## 😁 Onde me achar:
 
 <a href="https://www.linkedin.com/in/luanloose/">
-  <code><img alt="My linkedin" width="30" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" /></code>
+  <code><img alt="LinkedIn" width="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /></code>
 </a>
 
 <a href="mailto:luanloose4.0@gmail.com">
-  <code><img alt="My e-mail" width="30" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" /></code>
+  <code><img alt="E-mail" width="30" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" /></code>
 </a>
 
 <a href="https://wa.me/5527998040466">
@@ -55,11 +55,11 @@ Meu nome é Luan Andrade Loose, amo tecnologia e a área de desenvolvimento, sou
 </a>
 
 <a href="https://t.me/luanloose">
-  <code><img alt="Telegram" width="30" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111644.svg?token=exp=1611023559~hmac=a61249cf513b4c84bc86d879b46c3981" /></code>
+  <code><img alt="Telegram" width="30" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" /></code>
 </a>
 
 <a href="https://www.instagram.com/luanloose/?hl=pt-br">
-  <code><img alt="Instagram" width="30" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1611023627~hmac=08608355dd60c17ea551d7c049696f83" /></code>
+  <code><img alt="Instagram" width="30" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" /></code>
 </a>
 
 <p align="right">
