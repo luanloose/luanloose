@@ -51,7 +51,7 @@ Meu nome é Luan Andrade Loose, amo tecnologia e a área de desenvolvimento, sou
 </a>
 
 <a href="https://wa.me/5527998040466">
-  <code><img alt="Whatsapp" width="30" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384055.svg?token=exp=1611023287~hmac=82b30e79d51817b839fc525c8cc19503" /></code>
+  <code><img alt="Whatsapp" width="30" src="https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg" /></code>
 </a>
 
 <a href="https://t.me/luanloose">
