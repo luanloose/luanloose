@@ -50,10 +50,6 @@ Meu nome é Luan Andrade Loose, amo tecnologia e a área de desenvolvimento, sou
   <code><img alt="E-mail" width="30" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" /></code>
 </a>
 
-<a href="https://wa.me/5527998040466">
-  <code><img alt="Whatsapp" width="30" src="https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg" /></code>
-</a>
-
 <a href="https://t.me/luanloose">
   <code><img alt="Telegram" width="30" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" /></code>
 </a>
