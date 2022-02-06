@@ -1,22 +1,50 @@
 # Olá, seja bem vindo <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
-Meu nome é Luan Andrade Loose, amo tecnologia e a área de desenvolvimento, sou formado no curso técnico em informática pelo IFES, atualmente cursando Ciências da Computação na Faesa, estou na área de Ti desde 2013, já atuei como Suporte técnico, Administrador de Sistemas e  atualmente sou Desenvolvedor.
+## 🙋‍♂️ Sobre mim
+``` php
+<?php
 
+namespace luanloose;
 
-## ⚙️ GitHub Analytics
+class About extends Me
+{
+    public function getCurrentJob(): array
+    {
+        return [
+          'company' => 'PicPay',
+          'position' => 'Software Engineer'
+        ];
+    }
 
-<p align="center">
-<a href="https://github.com/luanloose">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luanloose&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luanloose&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+    public function getSkills(): array
+    {
+        return [
+          'php' => [
+            Laravel::class,
+            Lumen::class,
+            Hyperf::class,
+          ],
+          'javascript' => [ 
+            NodeJs::class, 
+            VueJs::class,
+          ],
+          'database' => [
+            MongoDB::class,
+            Postgre::class,
+            MySQL::class,
+          ],
+          'dev-ops' => [
+            Aws::class,
+          ],
+        ];
+    }
 
-## 🤦🏻‍♂️ Não tenho talento com:
- - Marketing no geral (logo, identidade visual);
- - Prototipagem de interfaces com Figma, Adobe XD e similares.
- - Front-end.
- 
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source.';
+    }
+}
+``` 
 ## 😁 Onde me achar:
 
 <a href="https://www.linkedin.com/in/luanloose/">
