@@ -11,7 +11,7 @@ class About extends Me
     public function getCurrentJob(): array
     {
         return [
-          'company' => 'PicPay',
+          'company' => 'Ifood',
           'position' => 'Software Engineer'
         ];
     }
@@ -24,9 +24,9 @@ class About extends Me
             Lumen::class,
             Hyperf::class,
           ],
-          'javascript' => [ 
-            NodeJs::class, 
-            VueJs::class,
+          'java' => [ 
+            Spring::class, 
+            Kotlin::class,
           ],
           'database' => [
             MongoDB::class,
@@ -35,6 +35,7 @@ class About extends Me
           ],
           'dev-ops' => [
             Aws::class,
+            Kubernetes::class
           ],
         ];
     }
