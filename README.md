@@ -52,10 +52,6 @@ class About extends Me
   <code><img alt="LinkedIn" width="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /></code>
 </a>
 
-<a href="https://www.instagram.com/luanloose/?hl=pt-br">
-  <code><img alt="Instagram" width="30" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" /></code>
-</a>
-
 <p align="right">
   <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/visits/luanloose/luanloose" alt="Visitors badge" />
