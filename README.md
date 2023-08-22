@@ -1,48 +1,42 @@
 # Olá, seja bem vindo <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
 ## 🙋‍♂️ Sobre mim
-``` php
-<?php
+``` java
+package luanloose
 
-namespace luanloose;
-
-class About extends Me
-{
-    public function getCurrentJob(): array
-    {
-        return [
-          'company' => 'Ifood',
-          'position' => 'Software Engineer'
-        ];
+class About : Me() {
+    fun getCurrentJob(): Map<String, String> {
+        return mapOf(
+            "company" to "Mercado Livre",
+            "position" to "Software Engineer"
+        )
     }
 
-    public function getSkills(): array
-    {
-        return [
-          'php' => [
-            Laravel::class,
-            Lumen::class,
-            Hyperf::class,
-          ],
-          'java' => [ 
-            Spring::class, 
-            Kotlin::class,
-          ],
-          'database' => [
-            MongoDB::class,
-            Postgre::class,
-            MySQL::class,
-          ],
-          'dev-ops' => [
-            Aws::class,
-            Kubernetes::class
-          ],
-        ];
+    fun getSkills(): Map<String, List<Class<*>>> {
+        return mapOf(
+            "php" to listOf(
+                Laravel::class.java,
+                Lumen::class.java,
+                Hyperf::class.java
+            ),
+            "java" to listOf(
+                Spring::class.java,
+                Kotlin::class.java
+            ),
+            "database" to listOf(
+                MongoDB::class.java,
+                Postgre::class.java,
+                MySQL::class.java
+            ),
+            "dev-ops" to listOf(
+                Aws::class.java,
+                Kubernetes::class.java
+            )
+        )
     }
 
-    public function getFutureGoal(): string
-    {
-        return 'To contribute to open source.';
+    fun getFutureGoal(): String {
+        return "To contribute to open source."
     }
 }
 ``` 
